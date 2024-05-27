@@ -1,6 +1,5 @@
 [workspace]
 
 members = [
-  "chapter_01/minimal-reqwest",
-  "chapter_01/minimal-warp"
+  "chapter_01/minimal-reqwest"
 ]
